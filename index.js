@@ -43,6 +43,7 @@ function KareninAlani(kenaruzunlugu) {
 function mustafaSiziSelamliyor(selamlamaBicimi) {
   return selamlamaBicimi;
 }
+//sdffdsfds
 
 /* (Oto test yok) Yukarıdaki KareninAlani fonksiyonunu kenar uzunluğu = 10 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
