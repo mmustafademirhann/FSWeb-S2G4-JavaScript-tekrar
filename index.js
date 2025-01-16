@@ -45,6 +45,7 @@ function mustafaSiziSelamliyor(selamlamaBicimi) {
 }
 //sdffdsfds
 
+
 /* (Oto test yok) Yukarıdaki KareninAlani fonksiyonunu kenar uzunluğu = 10 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* GÖREV 1:  
@@ -130,6 +131,7 @@ let ucetambolunenler,
 
 function sa() {
   console.log("Kodlar çalışıyor");
+  mustafaSiziSelamliyor("sad")
   return "as";
 }
 sa();
